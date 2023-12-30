@@ -1,5 +1,3 @@
-Hi All
-
 This is just a collection of code I have used for the last few years in different projects og daily tasks.
 
 Much of it is found on other sites or have been adjusted to fit a current task ... and much of it is not completed or even working, but parts of it just nice to have for a quick copy/paste.
